@@ -1,0 +1,268 @@
+SupplyChainId,Category,SubCategory,ProductId,ProductName,Description,Price,Quantity,ShippingCost,DeliveryTime,SellerId,SellerName,SellerCountry,SellerRating,SellerFeedback,OrderNumber,OrderId,OrderStatus,OrderDate,CustomerId
+132,Shoes,Camping,120,Harry Potter,Keurig K-Cup Coffee Maker,2199.0,2,8,2,160,James Doe,US,4.9,98,18,12346,Cancelled,########,359
+132,Home Improvement,Appliances,119,Waffle Maker,Michelin Primacy Tires,80.0,4,7,1,168,Jack Doe,US,4.9,98,2,12364,Shipped,########,351
+134,Automotive,Beverages,120,Sofa,Spiderman Action Figure,11.99,1,8,3,175,Jack Doe,US,4.9,98,18,12363,Shipped,########,345
+127,Electronics,Televisions,105,Diamond Necklace,Keurig K-Cup Coffee Maker,599.0,3,5,1,161,Sarah Doe,Spain,4.9,98,12,12362,Cancelled,########,356
+123,Health,Appliances,118,Spiderman,Michelin Primacy Tires,2199.0,4,7,3,166,John Doe,Germany,4.9,98,20,12361,Cancelled,########,352
+132,Books,Running Shoes,109,Foundation,Barbie Dreamhouse Playset,99.99,3,6,2,162,Emily Doe,US,4.9,98,18,12353,Shipped,########,359
+127,Toys,Action Figures,109,Protein Powder,90 Degree By Reflex Yoga Pants,35.0,2,5,2,173,Isabella Doe,Indonesia,4.9,98,18,12359,Shipped,########,356
+124,Outdoors,Beverages,105,Sofa,Ashley Furniture Sofa,90.0,4,7,2,164,William Doe,Canada,4.9,98,3,12350,Returned,########,355
+140,Kitchen,Fiction,111,Sofa,Ashley Furniture Sofa,45.0,2,5,1,165,Sophia Doe,Indonesia,4.9,98,18,12345,Shipped,########,350
+127,Books,Bottoms,103,Harry Potter,Levis 511 Slim Fit Jeans,35.0,3,10,3,161,Sarah Doe,Canada,4.9,98,19,12346,Returned,########,355
+129,Appliances,Small Appliances,111,Soda,90 Degree By Reflex Yoga Pants,2199.0,1,10,1,166,Jane Doe,China,4.9,98,14,12352,Cancelled,########,355
+129,Beauty,Running Shoes,101,Barbie,Harry Potter and the Sorcerer's Stone,400.0,3,8,3,170,Olivia Doe,South Africa,4.9,98,18,12350,Cancelled,########,347
+127,Furniture,Tools,107,Yoga Pants,Ashley Furniture Sofa,99.99,1,5,1,166,Jane Doe,Korea,4.9,98,1,12358,Returned,########,348
+128,Home Improvement,Living Room,104,Printer,Coleman 4 Person Tent,25.0,1,7,2,170,Emily Doe,South Africa,4.8,98,5,12348,Returned,########,349
+139,Home Improvement,Necklaces,115,Coffee Maker,90 Degree By Reflex Yoga Pants,99.99,1,5,3,166,Noah Doe,US,4.9,98,8,12351,Delivered,########,363
+140,Clothing,Small Appliances,101,Spiderman,50 inch LED 4K Ultra HD TV,100.0,2,8,2,166,Jane Doe,Spain,4.8,98,16,12354,Cancelled,########,351
+136,Books,Running Shoes,101,Harry Potter,Spiderman Action Figure,5.99,3,5,1,172,David Doe,Germany,4.9,98,18,12358,Returned,########,362
+124,Beauty,Dolls,118,Nike Pegasus,Nike Pegasus 36 Running Shoes,100.0,2,7,2,165,Tom Doe,Japan,4.9,98,14,12355,Shipped,########,347
+130,Grocery,Necklaces,112,Tires,Dewalt 18 Volt Drill,99.99,3,10,2,166,Oliver Doe,France,4.9,98,2,12350,Shipped,########,355
+141,Office,Televisions,115,Jeans,HP Color LaserJet Printer,99.99,3,10,1,162,Olivia Doe,Canada,4.9,98,8,12348,Returned,########,346
+130,Appliances,Small Appliances,102,Coffee Maker,Optimum Nutrition Protein Powder,19.99,3,5,1,173,James Doe,Germany,4.9,98,6,12361,Cancelled,########,348
+141,Toys,Living Room,116,Harry Potter,Nike Pegasus 36 Running Shoes,19.99,3,6,1,165,Emily Doe,South Africa,4.9,98,18,12363,Delivered,########,364
+125,Grocery,Beverages,108,Spiderman,Nike Pegasus 36 Running Shoes,25.0,3,7,2,173,Ava Doe,Spain,4.9,98,10,12350,Shipped,########,349
+133,Toys,Tools,108,Spiderman,Harry Potter and the Sorcerer's Stone,2199.0,1,6,2,167,Jane Doe,Spain,4.8,98,4,12356,Returned,########,360
+140,Books,Dolls,115,Waffle Maker,Hasbro Monopoly Game,2199.0,4,6,1,165,William Doe,India,4.8,98,8,12352,Shipped,########,361
+126,Toys,Camping,111,Tent,Levis 511 Slim Fit Jeans,35.0,2,5,2,163,Noah Doe,Spain,4.9,98,17,12363,Delivered,########,361
+138,Jewelry,Makeup,119,Barbie,Harry Potter and the Sorcerer's Stone,799.0,4,10,1,174,Mark Doe,Russia,4.8,98,14,12351,Cancelled,########,357
+126,Books,Fiction,116,Protein Powder,Harry Potter and the Sorcerer's Stone,599.0,2,5,2,162,Elizabeth Doe,Canada,4.8,98,14,12361,Shipped,########,361
+134,Health,Office Supplies,103,Printer,Spiderman Action Figure,25.0,3,7,3,162,Jack Doe,France,4.9,98,2,12363,Shipped,########,364
+141,Toys,Parts,111,Harry Potter,Harry Potter and the Sorcerer's Stone,19.99,1,8,3,162,James Doe,Brazil,4.8,98,14,12355,Returned,########,363
+141,Shoes,Televisions,119,Harry Potter,HP Color LaserJet Printer,19.99,3,6,1,174,Mark Doe,France,4.7,98,13,12358,Returned,########,351
+128,Toys,Fiction,101,Drill,Apple iPhone 11 64GB,150.0,4,6,2,171,Elizabeth Doe,Japan,4.9,98,16,12355,Returned,########,354
+130,Sports,Fiction,111,Sofa,Levis 511 Slim Fit Jeans,5.99,2,10,2,159,Sarah Doe,Italy,4.9,98,18,12352,Returned,########,349
+132,Furniture,Tools,113,Harry Potter,Spiderman Action Figure,5.99,1,7,1,175,Ava Doe,Brazil,4.9,98,17,12351,Shipped,########,354
+130,Toys,Phones,107,Spiderman,Ashley Furniture Sofa,11.99,1,10,3,159,Emily Doe,Australia,4.9,98,3,12348,Cancelled,########,361
+129,Electronics,Camping,101,Soda,90 Degree By Reflex Yoga Pants,11.99,2,7,1,165,Isabella Doe,Russia,4.9,98,9,12361,Delivered,########,362
+139,Office,Dolls,101,Coffee Maker,Apple iPhone 11 64GB,5.99,4,7,2,173,Olivia Doe,Spain,4.9,98,13,12362,Returned,########,345
+124,Sports,Beverages,106,Sony Bravia,Keurig K-Cup Coffee Maker,5.99,2,5,1,171,Isabella Doe,UK,4.9,98,3,12363,Shipped,########,348
+131,Electronics,Phones,108,Drill,Cuisinart Belgian Waffle Maker,150.0,4,10,1,162,Emily Doe,Canada,4.9,98,14,12346,Returned,########,352
+135,Electronics,Running Shoes,109,Coffee Maker,Cuisinart Belgian Waffle Maker,19.99,1,8,3,163,Emma Doe,Brazil,4.9,98,11,12347,Returned,########,351
+141,Sports,Fiction,107,Tires,Dewalt 18 Volt Drill,120.0,1,5,2,163,Tom Doe,Spain,4.9,98,20,12351,Shipped,########,360
+123,Electronics,Action Figures,108,Spiderman,Keurig K-Cup Coffee Maker,90.0,1,10,3,170,Mark Doe,Germany,4.9,98,13,12346,Shipped,########,357
+139,Books,Makeup,106,Tires,Ashley Furniture Sofa,799.0,2,8,3,165,Mark Doe,Japan,4.8,98,12,12347,Delivered,########,348
+128,Office,Beverages,104,Protein Powder,Coleman 4 Person Tent,2199.0,1,10,3,158,Sophia Doe,Canada,4.9,98,12,12353,Shipped,########,350
+127,Beauty,Dolls,109,Spiderman,Pepsi 12 Pack,50.0,3,5,1,159,Sophia Doe,Indonesia,4.9,98,4,12352,Shipped,########,348
+134,Toys,Dolls,119,Waffle Maker,Spiderman Action Figure,25.0,2,5,2,165,John Doe,Russia,4.7,98,15,12363,Returned,########,364
+138,Home Improvement,Running Shoes,120,Jeans,1 Carat Diamond Necklace,599.0,2,5,2,174,William Doe,Italy,4.9,98,17,12356,Delivered,########,347
+139,Grocery,Makeup,113,Diamond Necklace,Harry Potter and the Sorcerer's Stone,15.0,2,10,3,171,Ava Doe,France,4.9,98,13,12364,Returned,########,361
+140,Office,Camping,108,Diamond Necklace,HP Color LaserJet Printer,90.0,2,5,2,165,Oliver Doe,Japan,4.9,98,19,12354,Returned,########,357
+140,Grocery,Bottoms,110,Harry Potter,Nike Pegasus 36 Running Shoes,100.0,1,6,2,173,David Doe,China,4.8,98,5,12361,Delivered,########,349
+133,Health,Beverages,114,Yoga Pants,Optimum Nutrition Protein Powder,45.0,3,7,3,157,Noah Doe,Australia,4.9,98,17,12348,Shipped,########,356
+140,Toys,Supplements,118,Drill,Cuisinart Belgian Waffle Maker,11.99,4,5,2,171,Olivia Doe,US,4.9,98,5,12358,Cancelled,########,350
+135,Home Improvement,Office Supplies,113,Diamond Necklace,Levis 511 Slim Fit Jeans,400.0,1,7,2,157,Ava Doe,Spain,4.9,98,5,12352,Cancelled,########,354
+140,Kitchen,Appliances,107,Foundation,Apple iPhone 11 64GB,150.0,3,8,2,165,Emily Doe,France,4.9,98,17,12348,Delivered,########,352
+129,Kitchen,Appliances,105,Soda,Coleman 4 Person Tent,599.0,2,7,2,167,John Doe,Germany,4.9,98,1,12358,Cancelled,########,351
+125,Games,Televisions,114,Diamond Necklace,50 inch LED 4K Ultra HD TV,2199.0,2,7,2,162,William Doe,Australia,4.9,98,5,12347,Cancelled,########,345
+136,Automotive,Camping,115,Drill,Dewalt 18 Volt Drill,400.0,4,8,1,162,James Doe,Israel,4.9,98,11,12346,Shipped,########,363
+126,Shoes,Bottoms,120,Soda,Nike Pegasus 36 Running Shoes,599.0,4,10,1,163,Jane Doe,Italy,4.8,98,9,12357,Shipped,########,345
+131,Toys,Fiction,103,Printer,Pepsi 12 Pack,15.0,2,5,3,176,Mia Doe,Israel,4.9,98,7,12347,Cancelled,########,347
+132,Electronics,Phones,111,Spiderman,Harry Potter and the Sorcerer's Stone,80.0,1,5,1,176,Emily Doe,Spain,4.9,98,17,12359,Delivered,########,359
+124,Shoes,Bottoms,101,iPhone 11,Pepsi 12 Pack,11.99,1,7,1,163,Sarah Doe,South Africa,4.9,98,5,12358,Returned,########,357
+129,Jewelry,Board Games,101,Sony Bravia,Levis 511 Slim Fit Jeans,35.0,4,5,1,172,Oliver Doe,Japan,4.9,98,20,12345,Cancelled,########,359
+123,Home Improvement,Makeup,113,Nike Pegasus,90 Degree By Reflex Yoga Pants,19.99,2,10,1,157,Mia Doe,Germany,4.9,98,4,12354,Cancelled,########,353
+127,Furniture,Bottoms,109,Tent,Optimum Nutrition Protein Powder,80.0,3,5,2,174,Jack Doe,Canada,4.7,98,16,12346,Cancelled,########,350
+135,Games,Supplements,113,Foundation,Hasbro Monopoly Game,15.0,1,8,2,170,James Doe,Australia,4.9,98,8,12351,Returned,########,347
+135,Books,Office Supplies,103,Nike Pegasus,Cuisinart Belgian Waffle Maker,80.0,2,5,1,174,James Doe,Russia,4.9,98,6,12362,Returned,########,350
+142,Jewelry,Necklaces,116,Printer,Harry Potter and the Sorcerer's Stone,19.99,1,8,2,169,Sarah Doe,South Africa,4.8,98,17,12362,Delivered,########,348
+125,Toys,Televisions,101,Drill,Spiderman Action Figure,50.0,2,7,2,171,Mia Doe,Indonesia,4.9,98,14,12356,Shipped,########,355
+124,Outdoors,Small Appliances,107,Spiderman,Hasbro Monopoly Game,19.0,2,6,2,159,Ava Doe,US,4.9,98,16,12348,Returned,########,345
+124,Electronics,Appliances,110,iPhone 11,Optimum Nutrition Protein Powder,400.0,3,10,3,159,Mark Doe,Italy,4.9,98,7,12353,Returned,########,357
+140,Appliances,Phones,118,Drill,Pepsi 12 Pack,599.0,4,5,2,165,Jack Doe,Italy,4.7,98,6,12363,Cancelled,########,345
+131,Grocery,Action Figures,117,Diamond Necklace,Levis 511 Slim Fit Jeans,25.0,2,5,1,164,Emily Doe,US,4.9,98,19,12347,Delivered,########,351
+139,Toys,Televisions,106,iPhone 11,Levis 511 Slim Fit Jeans,150.0,1,10,2,163,Jack Doe,Korea,4.8,98,10,12358,Shipped,########,352
+129,Clothing,Beverages,106,Sofa,Keurig K-Cup Coffee Maker,50.0,1,6,2,171,Ava Doe,Australia,4.9,98,1,12352,Delivered,########,348
+130,Toys,Bottoms,115,Sony Bravia,90 Degree By Reflex Yoga Pants,5.99,4,8,2,158,Oliver Doe,France,4.7,98,18,12354,Cancelled,########,357
+138,Sports,Board Games,120,Nike Pegasus,Nike Pegasus 36 Running Shoes,25.0,1,7,2,167,William Doe,UK,4.9,98,10,12359,Cancelled,########,357
+129,Beauty,Fiction,119,Printer,Spiderman Action Figure,19.0,2,7,3,169,Ava Doe,Israel,4.9,98,4,12361,Cancelled,########,352
+142,Jewelry,Parts,114,Nike Pegasus,90 Degree By Reflex Yoga Pants,19.99,1,8,3,171,William Doe,Canada,4.9,98,5,12362,Shipped,########,350
+139,Electronics,Supplements,114,Sony Bravia,Apple iPhone 11 64GB,150.0,2,5,2,170,Tom Doe,Spain,4.9,98,14,12354,Delivered,########,362
+134,Kitchen,Necklaces,109,iPhone 11,90 Degree By Reflex Yoga Pants,99.99,3,5,2,165,Jack Doe,Korea,4.9,98,17,12354,Shipped,########,364
+135,Jewelry,Supplements,115,Yoga Pants,Michelin Primacy Tires,90.0,2,8,2,176,Emily Doe,Canada,4.9,98,17,12358,Delivered,########,363
+141,Furniture,Camping,114,iPhone 11,90 Degree By Reflex Yoga Pants,25.0,2,5,1,171,Mia Doe,Russia,4.8,98,9,12347,Returned,########,345
+136,Electronics,Living Room,105,Tent,1 Carat Diamond Necklace,120.0,1,7,2,165,Emily Doe,Russia,4.7,98,19,12364,Returned,########,362
+138,Shoes,Parts,119,Drill,Pepsi 12 Pack,19.0,4,8,1,172,Tom Doe,Germany,4.9,98,8,12351,Shipped,########,354
+123,Kitchen,Board Games,109,Jeans,Loreal True Match Foundation,25.0,1,5,2,160,Oliver Doe,US,4.9,98,3,12348,Delivered,########,347
+128,Clothing,Camping,113,Waffle Maker,Nike Pegasus 36 Running Shoes,50.0,4,8,3,169,Tom Doe,Canada,4.9,98,17,12359,Cancelled,########,346
+138,Beauty,Phones,106,Nike Pegasus,Levis 511 Slim Fit Jeans,80.0,1,7,2,164,Tom Doe,Indonesia,4.8,98,14,12356,Returned,########,364
+134,Games,Fiction,117,Yoga Pants,Cuisinart Belgian Waffle Maker,25.0,4,5,3,169,Ava Doe,Mexico,4.9,98,14,12349,Cancelled,########,363
+131,Clothing,Dolls,117,Spiderman,Michelin Primacy Tires,45.0,2,5,2,160,James Doe,Canada,4.9,98,15,12360,Returned,########,352
+136,Health,Parts,112,Monopoly,Ashley Furniture Sofa,599.0,3,7,1,167,Isabella Doe,Germany,4.8,98,18,12359,Delivered,########,347
+127,Games,Camping,107,Sofa,Keurig K-Cup Coffee Maker,25.0,2,5,2,170,Noah Doe,Canada,4.9,98,7,12358,Delivered,########,350
+129,Grocery,Necklaces,115,Spiderman,Ashley Furniture Sofa,80.0,2,7,3,176,Isabella Doe,Israel,4.9,98,2,12352,Delivered,########,346
+135,Shoes,Televisions,116,Yoga Pants,Keurig K-Cup Coffee Maker,25.0,3,5,3,166,Isabella Doe,Germany,4.9,98,18,12347,Cancelled,########,360
+138,Health,Athletic Wear,105,Harry Potter,Dewalt 18 Volt Drill,99.99,1,6,2,164,Jack Doe,Australia,4.9,98,5,12360,Delivered,########,348
+127,Outdoors,Board Games,107,Sofa,Apple iPhone 11 64GB,11.99,2,5,2,169,Tom Doe,Indonesia,4.9,98,20,12363,Shipped,########,352
+141,Furniture,Beverages,112,Coffee Maker,Dewalt 18 Volt Drill,400.0,3,5,3,164,Emily Doe,Italy,4.9,98,6,12345,Cancelled,########,362
+137,Beauty,Tools,108,Barbie,Barbie Dreamhouse Playset,120.0,1,5,2,173,James Doe,Germany,4.9,98,14,12357,Cancelled,########,363
+136,Electronics,Office Supplies,115,Monopoly,Dewalt 18 Volt Drill,799.0,1,6,2,157,Sarah Doe,France,4.9,98,9,12355,Cancelled,########,356
+141,Automotive,Bottoms,106,Tent,1 Carat Diamond Necklace,599.0,3,6,1,167,Noah Doe,China,4.9,98,2,12361,Shipped,########,364
+130,Books,Phones,108,Printer,Apple iPhone 11 64GB,25.0,2,6,2,162,Sophia Doe,Mexico,4.9,98,15,12364,Delivered,########,350
+133,Sports,Supplements,103,Drill,Spiderman Action Figure,90.0,4,7,1,159,Isabella Doe,Indonesia,4.9,98,16,12349,Returned,########,362
+139,Home Improvement,Small Appliances,116,Foundation,Hasbro Monopoly Game,25.0,1,8,1,170,James Doe,Korea,4.9,98,12,12357,Returned,########,351
+136,Grocery,Necklaces,107,Coffee Maker,HP Color LaserJet Printer,5.99,2,6,2,162,Jack Doe,Italy,4.9,98,3,12360,Returned,########,353
+137,Home Improvement,Action Figures,116,Printer,Michelin Primacy Tires,99.99,2,7,2,165,John Doe,UK,4.9,98,15,12349,Delivered,########,345
+138,Shoes,Televisions,118,Tent,Nike Pegasus 36 Running Shoes,19.99,3,5,2,158,Olivia Doe,India,4.9,98,3,12346,Cancelled,########,360
+123,Books,Camping,113,Diamond Necklace,Barbie Dreamhouse Playset,150.0,2,5,2,176,Jane Doe,South Africa,4.9,98,14,12360,Delivered,########,350
+142,Health,Board Games,109,Soda,Michelin Primacy Tires,35.0,2,5,2,172,Elizabeth Doe,Korea,4.7,98,2,12359,Returned,########,359
+131,Games,Small Appliances,110,Nike Pegasus,HP Color LaserJet Printer,45.0,4,6,2,160,Emma Doe,Indonesia,4.9,98,2,12354,Delivered,########,354
+134,Electronics,Beverages,106,Yoga Pants,50 inch LED 4K Ultra HD TV,100.0,2,5,3,162,Tom Doe,China,4.9,98,5,12360,Cancelled,########,348
+140,Automotive,Dolls,119,Barbie,Hasbro Monopoly Game,799.0,1,10,1,175,Mark Doe,Brazil,4.9,98,9,12347,Delivered,########,363
+130,Toys,Tools,106,Soda,Harry Potter and the Sorcerer's Stone,150.0,2,7,2,164,Elizabeth Doe,France,4.9,98,19,12357,Cancelled,########,358
+126,Shoes,Living Room,106,Spiderman,Apple iPhone 11 64GB,599.0,1,6,1,168,Sarah Doe,Australia,4.9,98,20,12357,Cancelled,########,363
+132,Office,Living Room,111,Coffee Maker,Pepsi 12 Pack,150.0,2,5,2,165,Tom Doe,Canada,4.9,98,14,12359,Shipped,########,360
+141,Automotive,Tools,110,Sofa,Levis 511 Slim Fit Jeans,150.0,3,5,2,159,William Doe,France,4.9,98,10,12345,Cancelled,########,355
+128,Games,Dolls,119,Tent,Keurig K-Cup Coffee Maker,120.0,2,10,2,157,Ava Doe,Canada,4.9,98,8,12362,Cancelled,########,345
+138,Electronics,Appliances,118,Waffle Maker,50 inch LED 4K Ultra HD TV,799.0,1,5,2,169,Jane Doe,Germany,4.9,98,11,12360,Delivered,########,351
+132,Sports,Living Room,103,Monopoly,Apple iPhone 11 64GB,90.0,1,6,1,157,Sophia Doe,UK,4.9,98,18,12360,Delivered,########,361
+136,Office,Athletic Wear,103,Diamond Necklace,50 inch LED 4K Ultra HD TV,11.99,2,6,3,174,Sophia Doe,Brazil,4.7,98,3,12346,Cancelled,########,350
+140,Kitchen,Running Shoes,119,Tent,Harry Potter and the Sorcerer's Stone,50.0,3,8,1,174,Ava Doe,UK,4.9,98,13,12359,Shipped,########,363
+129,Appliances,Dolls,101,Yoga Pants,Pepsi 12 Pack,599.0,1,6,1,172,Oliver Doe,Indonesia,4.7,98,5,12352,Shipped,########,346
+124,Jewelry,Phones,116,Yoga Pants,Ashley Furniture Sofa,15.0,1,6,3,161,Noah Doe,Korea,4.9,98,1,12355,Cancelled,########,347
+129,Outdoors,Parts,103,Soda,Optimum Nutrition Protein Powder,11.99,2,8,2,159,Isabella Doe,Brazil,4.9,98,12,12356,Delivered,########,355
+136,Books,Phones,116,Yoga Pants,Michelin Primacy Tires,11.99,1,5,1,163,James Doe,France,4.8,98,12,12354,Shipped,########,349
+132,Automotive,Necklaces,112,Yoga Pants,Keurig K-Cup Coffee Maker,11.99,4,8,3,169,Olivia Doe,Indonesia,4.9,98,17,12364,Cancelled,########,362
+139,Automotive,Supplements,119,Printer,Pepsi 12 Pack,45.0,2,8,2,164,Olivia Doe,Israel,4.9,98,11,12349,Delivered,########,349
+134,Toys,Office Supplies,118,Monopoly,Keurig K-Cup Coffee Maker,599.0,1,6,2,167,John Doe,India,4.8,98,3,12352,Returned,########,359
+134,Sports,Makeup,102,Coffee Maker,Coleman 4 Person Tent,5.99,2,6,2,173,Emily Doe,Russia,4.9,98,2,12363,Cancelled,########,364
+135,Furniture,Phones,120,Jeans,Harry Potter and the Sorcerer's Stone,45.0,2,6,3,162,Emily Doe,Israel,4.9,98,3,12354,Cancelled,########,364
+128,Toys,Parts,104,Diamond Necklace,Hasbro Monopoly Game,599.0,1,5,2,159,Emma Doe,Germany,4.9,98,20,12351,Cancelled,########,354
+138,Jewelry,Board Games,110,Diamond Necklace,Keurig K-Cup Coffee Maker,100.0,3,7,2,168,Jack Doe,India,4.8,98,15,12364,Returned,########,363
+132,Clothing,Dolls,106,Spiderman,Optimum Nutrition Protein Powder,120.0,1,6,3,163,Ava Doe,Indonesia,4.9,98,6,12359,Shipped,########,362
+131,Office,Action Figures,111,Diamond Necklace,Nike Pegasus 36 Running Shoes,150.0,1,10,3,168,Ava Doe,Israel,4.8,98,18,12358,Cancelled,########,353
+139,Appliances,Small Appliances,120,Sony Bravia,Cuisinart Belgian Waffle Maker,19.99,4,5,1,172,Mark Doe,Canada,4.9,98,8,12354,Returned,########,357
+124,Health,Dolls,109,Nike Pegasus,Barbie Dreamhouse Playset,45.0,3,10,2,170,Emma Doe,Australia,4.9,98,18,12350,Cancelled,########,350
+137,Shoes,Makeup,107,Tent,50 inch LED 4K Ultra HD TV,5.99,2,10,1,165,Tom Doe,Canada,4.9,98,19,12359,Cancelled,########,351
+133,Toys,Appliances,101,Tires,Apple iPhone 11 64GB,90.0,4,6,3,161,Sarah Doe,Canada,4.9,98,9,12353,Shipped,########,348
+139,Jewelry,Beverages,120,Printer,Cuisinart Belgian Waffle Maker,150.0,1,5,1,162,William Doe,Germany,4.9,98,8,12347,Cancelled,########,355
+138,Beauty,Necklaces,115,Sofa,Harry Potter and the Sorcerer's Stone,11.99,2,6,1,171,Jane Doe,Italy,4.9,98,8,12351,Delivered,########,361
+137,Books,Living Room,113,Jeans,Hasbro Monopoly Game,35.0,1,10,1,173,Elizabeth Doe,Brazil,4.7,98,2,12347,Delivered,########,355
+123,Electronics,Action Figures,107,Harry Potter,Barbie Dreamhouse Playset,100.0,4,7,1,171,Tom Doe,Germany,4.9,98,17,12362,Returned,########,363
+138,Electronics,Beverages,108,iPhone 11,Optimum Nutrition Protein Powder,35.0,2,5,3,167,Sarah Doe,Italy,4.9,98,14,12357,Shipped,########,345
+133,Toys,Televisions,119,Soda,Loreal True Match Foundation,599.0,1,8,2,169,Olivia Doe,Australia,4.8,98,2,12360,Cancelled,########,347
+133,Electronics,Parts,116,Jeans,Apple iPhone 11 64GB,25.0,4,8,1,165,James Doe,Germany,4.9,98,12,12352,Returned,########,363
+136,Games,Televisions,109,Diamond Necklace,Nike Pegasus 36 Running Shoes,25.0,1,6,2,175,Tom Doe,Japan,4.9,98,17,12357,Shipped,########,352
+142,Toys,Camping,118,Tires,Keurig K-Cup Coffee Maker,2199.0,4,5,1,173,Sarah Doe,Indonesia,4.9,98,20,12348,Cancelled,########,359
+127,Shoes,Dolls,112,Sofa,90 Degree By Reflex Yoga Pants,25.0,4,6,3,175,John Doe,US,4.9,98,18,12345,Shipped,########,355
+137,Jewelry,Televisions,117,Jeans,1 Carat Diamond Necklace,799.0,4,10,2,169,Isabella Doe,Canada,4.8,98,4,12352,Cancelled,########,361
+142,Grocery,Dolls,101,Spiderman,Levis 511 Slim Fit Jeans,15.0,3,6,2,176,Mia Doe,Korea,4.9,98,11,12346,Shipped,########,355
+123,Home Improvement,Board Games,108,Diamond Necklace,Apple iPhone 11 64GB,799.0,3,10,2,158,Mark Doe,Indonesia,4.9,98,19,12357,Shipped,########,354
+124,Sports,Dolls,109,Harry Potter,Nike Pegasus 36 Running Shoes,19.0,2,10,1,175,John Doe,Israel,4.9,98,8,12364,Returned,########,345
+129,Sports,Bottoms,106,Soda,Coleman 4 Person Tent,799.0,4,7,3,171,David Doe,UK,4.9,98,2,12357,Cancelled,########,353
+123,Jewelry,Appliances,108,Spiderman,HP Color LaserJet Printer,2199.0,2,5,2,161,William Doe,Israel,4.9,98,8,12350,Shipped,########,359
+135,Shoes,Tools,112,Monopoly,Levis 511 Slim Fit Jeans,45.0,1,6,3,170,James Doe,Japan,4.9,98,15,12361,Delivered,########,350
+135,Grocery,Tools,112,Tires,Optimum Nutrition Protein Powder,90.0,4,8,1,166,John Doe,US,4.9,98,6,12364,Shipped,########,361
+139,Books,Necklaces,103,Tent,Dewalt 18 Volt Drill,25.0,1,6,2,171,James Doe,Brazil,4.9,98,8,12346,Delivered,########,354
+127,Office,Dolls,120,Soda,Ashley Furniture Sofa,799.0,1,10,2,159,Emma Doe,Russia,4.9,98,20,12354,Returned,########,350
+126,Outdoors,Small Appliances,111,Harry Potter,Pepsi 12 Pack,5.99,1,8,3,171,Jane Doe,Indonesia,4.9,98,3,12346,Shipped,########,358
+130,Outdoors,Televisions,118,Spiderman,Optimum Nutrition Protein Powder,25.0,2,6,1,167,Mia Doe,Korea,4.9,98,1,12354,Cancelled,########,350
+129,Shoes,Running Shoes,101,Sony Bravia,Dewalt 18 Volt Drill,2199.0,1,10,1,170,Oliver Doe,Canada,4.9,98,1,12356,Returned,########,351
+124,Books,Dolls,101,Waffle Maker,Cuisinart Belgian Waffle Maker,400.0,3,6,3,163,Oliver Doe,South Africa,4.9,98,3,12357,Returned,########,357
+129,Office,Action Figures,107,Tent,Nike Pegasus 36 Running Shoes,799.0,3,7,2,161,John Doe,France,4.9,98,15,12351,Cancelled,########,361
+123,Clothing,Appliances,107,Jeans,Levis 511 Slim Fit Jeans,15.0,1,6,1,166,Isabella Doe,Canada,4.7,98,2,12362,Cancelled,########,353
+124,Toys,Televisions,109,iPhone 11,Dewalt 18 Volt Drill,90.0,3,8,1,163,Mark Doe,Indonesia,4.9,98,6,12351,Returned,########,354
+134,Games,Beverages,102,Sofa,90 Degree By Reflex Yoga Pants,99.99,2,8,1,159,Elizabeth Doe,South Africa,4.9,98,14,12362,Shipped,########,364
+137,Automotive,Athletic Wear,109,Printer,Barbie Dreamhouse Playset,599.0,1,7,1,169,William Doe,UK,4.9,98,13,12350,Cancelled,########,347
+127,Shoes,Makeup,106,Nike Pegasus,Barbie Dreamhouse Playset,2199.0,4,5,3,166,Tom Doe,Germany,4.9,98,11,12360,Cancelled,########,355
+134,Books,Running Shoes,106,Tent,90 Degree By Reflex Yoga Pants,80.0,2,7,3,158,Mark Doe,China,4.9,98,18,12362,Delivered,########,346
+126,Electronics,Makeup,118,Diamond Necklace,Hasbro Monopoly Game,25.0,2,7,2,171,Sarah Doe,Italy,4.9,98,12,12349,Returned,########,353
+125,Games,Camping,109,Spiderman,HP Color LaserJet Printer,150.0,4,5,2,170,Mia Doe,Mexico,4.8,98,7,12358,Delivered,########,345
+127,Jewelry,Bottoms,108,Harry Potter,90 Degree By Reflex Yoga Pants,99.99,2,10,1,165,William Doe,UK,4.7,98,7,12361,Delivered,########,352
+130,Books,Running Shoes,113,Yoga Pants,Barbie Dreamhouse Playset,50.0,1,5,3,160,James Doe,Japan,4.9,98,15,12354,Returned,########,348
+128,Toys,Board Games,111,Nike Pegasus,50 inch LED 4K Ultra HD TV,5.99,1,5,1,175,Olivia Doe,Australia,4.9,98,13,12352,Cancelled,########,361
+139,Automotive,Beverages,102,Drill,Michelin Primacy Tires,11.99,4,10,2,173,Elizabeth Doe,UK,4.8,98,12,12361,Cancelled,########,346
+127,Games,Makeup,114,Foundation,50 inch LED 4K Ultra HD TV,599.0,3,6,3,173,William Doe,Japan,4.9,98,17,12345,Shipped,########,362
+134,Jewelry,Televisions,119,Soda,Keurig K-Cup Coffee Maker,35.0,1,5,1,157,Emily Doe,South Africa,4.9,98,18,12349,Delivered,########,363
+142,Home Improvement,Makeup,109,Drill,Loreal True Match Foundation,19.0,4,7,3,168,Sarah Doe,Germany,4.9,98,13,12349,Cancelled,########,357
+129,Sports,Phones,119,Monopoly,Levis 511 Slim Fit Jeans,150.0,3,10,2,169,Ava Doe,Australia,4.9,98,1,12345,Delivered,########,349
+131,Grocery,Phones,104,Coffee Maker,Dewalt 18 Volt Drill,599.0,1,5,2,168,David Doe,Japan,4.8,98,4,12349,Shipped,########,363
+129,Furniture,Supplements,107,Soda,Spiderman Action Figure,19.0,1,5,2,170,Tom Doe,Spain,4.9,98,13,12362,Delivered,########,348
+142,Clothing,Appliances,110,Drill,Ashley Furniture Sofa,50.0,4,5,3,165,John Doe,US,4.9,98,8,12347,Shipped,########,362
+130,Jewelry,Makeup,119,Waffle Maker,Levis 511 Slim Fit Jeans,15.0,1,7,3,162,Noah Doe,Canada,4.9,98,2,12346,Cancelled,########,348
+129,Furniture,Parts,120,Sofa,Dewalt 18 Volt Drill,11.99,1,10,1,166,John Doe,Canada,4.9,98,10,12363,Delivered,########,348
+136,Office,Televisions,112,Drill,1 Carat Diamond Necklace,2199.0,3,5,3,167,Oliver Doe,Brazil,4.8,98,17,12348,Delivered,########,350
+131,Toys,Televisions,117,Foundation,Michelin Primacy Tires,25.0,1,5,1,163,David Doe,Canada,4.9,98,11,12363,Cancelled,########,358
+134,Clothing,Dolls,110,Spiderman,Pepsi 12 Pack,5.99,1,7,2,166,William Doe,China,4.9,98,10,12357,Returned,########,351
+129,Books,Athletic Wear,116,Jeans,Keurig K-Cup Coffee Maker,80.0,1,5,2,163,Sarah Doe,China,4.9,98,16,12352,Cancelled,########,350
+140,Shoes,Living Room,109,Diamond Necklace,Cuisinart Belgian Waffle Maker,400.0,2,10,1,174,Tom Doe,Russia,4.9,98,14,12364,Delivered,########,355
+140,Electronics,Phones,117,Tent,Cuisinart Belgian Waffle Maker,80.0,4,5,1,170,Ava Doe,Canada,4.9,98,11,12346,Returned,########,362
+141,Jewelry,Tools,109,Protein Powder,Spiderman Action Figure,35.0,2,10,3,160,John Doe,Israel,4.9,98,1,12362,Cancelled,########,355
+134,Kitchen,Board Games,110,Spiderman,Coleman 4 Person Tent,5.99,1,5,1,160,Emma Doe,China,4.9,98,5,12357,Delivered,########,351
+142,Electronics,Appliances,103,Drill,Nike Pegasus 36 Running Shoes,35.0,3,10,1,160,James Doe,Germany,4.8,98,7,12363,Cancelled,########,363
+128,Kitchen,Tools,101,Diamond Necklace,Apple iPhone 11 64GB,120.0,2,7,1,174,James Doe,Italy,4.9,98,7,12353,Cancelled,########,363
+124,Shoes,Athletic Wear,107,Tires,Michelin Primacy Tires,5.99,2,5,1,162,Mark Doe,Australia,4.9,98,11,12360,Cancelled,########,362
+139,Toys,Small Appliances,106,Spiderman,Barbie Dreamhouse Playset,35.0,2,6,3,162,Noah Doe,Indonesia,4.9,98,14,12349,Cancelled,########,345
+124,Games,Office Supplies,105,Drill,Loreal True Match Foundation,50.0,3,6,2,175,Sophia Doe,Canada,4.9,98,16,12345,Delivered,########,349
+138,Clothing,Board Games,116,Drill,Dewalt 18 Volt Drill,799.0,1,5,1,176,Jack Doe,Korea,4.9,98,9,12353,Delivered,########,364
+126,Grocery,Board Games,105,Jeans,Dewalt 18 Volt Drill,99.99,4,8,2,167,Tom Doe,UK,4.9,98,6,12358,Shipped,########,360
+139,Sports,Camping,106,Jeans,Cuisinart Belgian Waffle Maker,599.0,2,7,2,174,William Doe,India,4.9,98,16,12346,Cancelled,########,356
+126,Kitchen,Camping,101,Sofa,Hasbro Monopoly Game,599.0,4,6,2,164,Ava Doe,Italy,4.8,98,8,12360,Cancelled,########,345
+141,Shoes,Phones,109,Foundation,Pepsi 12 Pack,25.0,4,5,2,170,Ava Doe,Brazil,4.9,98,18,12347,Cancelled,########,355
+142,Office,Necklaces,120,Protein Powder,Harry Potter and the Sorcerer's Stone,15.0,1,6,2,173,David Doe,South Africa,4.9,98,14,12347,Returned,########,353
+140,Electronics,Dolls,110,Harry Potter,Keurig K-Cup Coffee Maker,15.0,3,5,2,160,William Doe,Indonesia,4.9,98,6,12357,Returned,########,347
+133,Automotive,Board Games,112,Nike Pegasus,Dewalt 18 Volt Drill,100.0,2,8,2,170,William Doe,Italy,4.9,98,9,12348,Shipped,########,357
+137,Sports,Athletic Wear,120,Foundation,Loreal True Match Foundation,25.0,2,6,2,165,Oliver Doe,Russia,4.8,98,20,12360,Returned,########,361
+132,Outdoors,Camping,110,Barbie,Dewalt 18 Volt Drill,80.0,2,5,1,165,Emily Doe,Australia,4.9,98,4,12357,Delivered,########,348
+131,Outdoors,Camping,103,Yoga Pants,Spiderman Action Figure,50.0,4,5,1,164,James Doe,Indonesia,4.9,98,20,12364,Cancelled,########,348
+126,Automotive,Camping,104,Soda,1 Carat Diamond Necklace,50.0,2,5,3,176,Elizabeth Doe,Germany,4.9,98,15,12361,Shipped,########,347
+125,Books,Fiction,103,Soda,Michelin Primacy Tires,15.0,1,5,3,175,Olivia Doe,Spain,4.9,98,5,12359,Delivered,########,359
+134,Clothing,Televisions,105,Harry Potter,Michelin Primacy Tires,11.99,2,5,2,164,James Doe,Japan,4.9,98,6,12360,Returned,########,347
+133,Kitchen,Fiction,103,Waffle Maker,HP Color LaserJet Printer,45.0,1,6,1,172,James Doe,France,4.7,98,4,12357,Shipped,########,346
+141,Electronics,Supplements,107,Yoga Pants,Loreal True Match Foundation,25.0,3,5,2,171,Elizabeth Doe,Israel,4.9,98,2,12347,Cancelled,########,360
+127,Sports,Televisions,118,iPhone 11,Cuisinart Belgian Waffle Maker,25.0,3,7,3,161,Tom Doe,Russia,4.8,98,13,12353,Delivered,########,351
+137,Home Improvement,Action Figures,120,Waffle Maker,Michelin Primacy Tires,11.99,4,6,3,168,James Doe,South Africa,4.9,98,19,12346,Cancelled,########,351
+124,Electronics,Athletic Wear,118,Nike Pegasus,Pepsi 12 Pack,2199.0,1,10,2,170,Jane Doe,Japan,4.9,98,17,12346,Shipped,########,347
+139,Beauty,Beverages,114,iPhone 11,Coleman 4 Person Tent,80.0,2,8,2,168,Sophia Doe,Israel,4.9,98,13,12354,Returned,########,359
+135,Clothing,Board Games,114,Soda,Spiderman Action Figure,11.99,4,10,3,159,Sarah Doe,Canada,4.9,98,5,12363,Cancelled,########,359
+124,Electronics,Bottoms,116,Barbie,Cuisinart Belgian Waffle Maker,80.0,2,7,2,173,Tom Doe,Australia,4.9,98,9,12347,Returned,########,349
+139,Office,Camping,115,Tent,50 inch LED 4K Ultra HD TV,50.0,2,7,3,171,Emma Doe,Australia,4.9,98,8,12360,Cancelled,########,361
+124,Books,Tools,115,Protein Powder,Barbie Dreamhouse Playset,80.0,4,7,3,166,Jack Doe,Mexico,4.9,98,13,12357,Cancelled,########,364
+135,Books,Small Appliances,118,Drill,Nike Pegasus 36 Running Shoes,15.0,4,6,3,167,James Doe,Japan,4.8,98,20,12364,Delivered,########,353
+138,Beauty,Necklaces,109,Soda,Harry Potter and the Sorcerer's Stone,15.0,1,5,3,173,John Doe,Israel,4.9,98,17,12345,Returned,########,346
+140,Appliances,Bottoms,119,Spiderman,Harry Potter and the Sorcerer's Stone,50.0,3,5,1,163,Tom Doe,South Africa,4.9,98,6,12350,Cancelled,########,350
+129,Clothing,Athletic Wear,120,Protein Powder,HP Color LaserJet Printer,19.99,4,7,2,163,David Doe,Israel,4.7,98,8,12345,Returned,########,347
+137,Toys,Board Games,117,Monopoly,Cuisinart Belgian Waffle Maker,15.0,1,7,3,174,Mark Doe,Indonesia,4.9,98,17,12346,Returned,########,352
+140,Shoes,Phones,108,Harry Potter,90 Degree By Reflex Yoga Pants,19.99,4,5,1,161,David Doe,Spain,4.9,98,3,12360,Cancelled,########,350
+135,Toys,Office Supplies,111,iPhone 11,Pepsi 12 Pack,15.0,1,6,1,165,Olivia Doe,Canada,4.9,98,11,12357,Shipped,########,351
+133,Clothing,Dolls,117,Spiderman,Optimum Nutrition Protein Powder,35.0,3,6,1,158,Ava Doe,China,4.9,98,2,12359,Delivered,########,363
+142,Home Improvement,Camping,109,Jeans,Nike Pegasus 36 Running Shoes,45.0,4,10,1,163,Noah Doe,Brazil,4.9,98,3,12351,Returned,########,348
+141,Toys,Small Appliances,114,Tires,90 Degree By Reflex Yoga Pants,11.99,1,6,3,170,Ava Doe,South Africa,4.9,98,19,12357,Shipped,########,364
+126,Kitchen,Camping,113,Diamond Necklace,Levis 511 Slim Fit Jeans,50.0,1,6,3,171,Jack Doe,Australia,4.9,98,9,12345,Returned,########,351
+134,Clothing,Athletic Wear,116,iPhone 11,50 inch LED 4K Ultra HD TV,45.0,2,7,2,173,Olivia Doe,Mexico,4.9,98,6,12353,Delivered,########,359
+133,Automotive,Small Appliances,108,Spiderman,Keurig K-Cup Coffee Maker,799.0,1,7,3,175,Tom Doe,Mexico,4.9,98,4,12364,Returned,########,355
+131,Books,Televisions,107,Soda,Ashley Furniture Sofa,35.0,3,7,1,157,Emma Doe,US,4.9,98,18,12350,Cancelled,########,359
+125,Appliances,Necklaces,112,Drill,90 Degree By Reflex Yoga Pants,599.0,4,5,3,169,Isabella Doe,Mexico,4.9,98,1,12345,Cancelled,########,364
+124,Automotive,Living Room,115,Protein Powder,Loreal True Match Foundation,19.0,4,10,2,160,David Doe,China,4.9,98,8,12363,Shipped,########,364
+128,Appliances,Dolls,115,Protein Powder,Coleman 4 Person Tent,120.0,2,7,2,161,Mark Doe,Indonesia,4.9,98,16,12352,Delivered,########,349
+130,Clothing,Necklaces,112,Sofa,Apple iPhone 11 64GB,5.99,1,8,2,164,Jane Doe,Italy,4.9,98,12,12354,Returned,########,358
+141,Toys,Phones,119,Tires,Spiderman Action Figure,2199.0,2,5,1,166,Noah Doe,Italy,4.9,98,13,12360,Returned,########,345
+129,Grocery,Office Supplies,113,Diamond Necklace,Levis 511 Slim Fit Jeans,19.99,3,5,2,160,Mia Doe,Brazil,4.9,98,3,12347,Returned,########,359
+130,Office,Office Supplies,112,Tires,Levis 511 Slim Fit Jeans,90.0,1,8,2,170,James Doe,Mexico,4.9,98,3,12348,Cancelled,########,360
+136,Clothing,Living Room,118,Yoga Pants,Michelin Primacy Tires,599.0,2,5,1,175,Olivia Doe,Italy,4.9,98,6,12359,Shipped,########,350
+125,Clothing,Dolls,109,Monopoly,Loreal True Match Foundation,50.0,3,6,3,157,Oliver Doe,Germany,4.9,98,2,12360,Cancelled,########,354
+135,Books,Televisions,120,Foundation,Nike Pegasus 36 Running Shoes,400.0,2,6,2,166,Sophia Doe,Canada,4.9,98,3,12353,Delivered,########,360
+142,Games,Supplements,104,Waffle Maker,1 Carat Diamond Necklace,99.99,2,8,3,168,Jane Doe,India,4.9,98,18,12352,Returned,########,347
+130,Health,Athletic Wear,111,Tires,Keurig K-Cup Coffee Maker,19.99,1,7,2,169,James Doe,Canada,4.9,98,11,12350,Delivered,########,363
+125,Appliances,Running Shoes,105,Soda,HP Color LaserJet Printer,50.0,3,5,2,168,Noah Doe,Australia,4.7,98,17,12357,Delivered,########,359
+126,Games,Beverages,103,Foundation,Pepsi 12 Pack,5.99,1,5,3,159,James Doe,France,4.8,98,18,12352,Delivered,########,357
+135,Shoes,Tools,110,Protein Powder,Keurig K-Cup Coffee Maker,150.0,4,5,2,168,Emily Doe,Japan,4.9,98,12,12359,Returned,########,345
+123,Clothing,Office Supplies,101,Protein Powder,HP Color LaserJet Printer,99.99,3,5,2,162,William Doe,Russia,4.8,98,8,12363,Returned,########,360
+130,Appliances,Necklaces,103,Waffle Maker,Michelin Primacy Tires,80.0,4,8,3,158,Isabella Doe,Italy,4.9,98,16,12348,Delivered,########,363
+139,Home Improvement,Necklaces,113,Diamond Necklace,50 inch LED 4K Ultra HD TV,99.99,4,8,2,173,Mark Doe,Australia,4.9,98,1,12355,Delivered,########,345
+136,Toys,Parts,113,Soda,90 Degree By Reflex Yoga Pants,100.0,4,7,1,164,Sophia Doe,Australia,4.9,98,2,12357,Delivered,########,358
+141,Beauty,Fiction,118,Coffee Maker,Spiderman Action Figure,50.0,4,10,2,172,Sarah Doe,UK,4.9,98,13,12345,Cancelled,########,363
+130,Sports,Appliances,105,Sony Bravia,Pepsi 12 Pack,15.0,2,5,1,167,Noah Doe,Spain,4.9,98,11,12362,Cancelled,########,359
+124,Jewelry,Parts,106,Harry Potter,Dewalt 18 Volt Drill,11.99,3,10,2,160,James Doe,Australia,4.8,98,3,12349,Delivered,########,345
+138,Clothing,Makeup,115,iPhone 11,Ashley Furniture Sofa,45.0,1,5,2,171,Mark Doe,India,4.9,98,16,12361,Returned,########,345
+130,Appliances,Living Room,107,Coffee Maker,Nike Pegasus 36 Running Shoes,50.0,1,10,3,159,James Doe,Canada,4.9,98,17,12353,Delivered,########,364
+128,Books,Makeup,106,Protein Powder,HP Color LaserJet Printer,25.0,2,7,3,165,James Doe,Australia,4.8,98,2,12345,Shipped,########,357
+126,Health,Living Room,102,Monopoly,Keurig K-Cup Coffee Maker,2199.0,3,8,2,168,Jack Doe,Korea,4.8,98,11,12349,Returned,########,348
+132,Automotive,Small Appliances,104,Waffle Maker,Michelin Primacy Tires,80.0,3,6,2,165,William Doe,China,4.9,98,1,12356,Returned,########,351
+130,Electronics,Action Figures,110,Sofa,Apple iPhone 11 64GB,400.0,3,8,1,161,Elizabeth Doe,Canada,4.9,98,6,12355,Returned,########,349
+131,Automotive,Makeup,119,Spiderman,50 inch LED 4K Ultra HD TV,99.99,1,7,2,167,Oliver Doe,Brazil,4.9,98,12,12353,Returned,########,363
+140,Shoes,Beverages,102,Diamond Necklace,Hasbro Monopoly Game,19.99,3,10,1,172,Emily Doe,Germany,4.9,98,14,12359,Delivered,########,346
+126,Clothing,Running Shoes,104,Monopoly,Keurig K-Cup Coffee Maker,150.0,1,7,2,157,Jane Doe,France,4.9,98,18,12361,Shipped,########,345
+139,Health,Beverages,119,Sofa,Nike Pegasus 36 Running Shoes,19.0,2,6,2,158,Elizabeth Doe,Canada,4.9,98,6,12357,Delivered,########,346
+123,Automotive,Board Games,119,Tires,90 Degree By Reflex Yoga Pants,100.0,3,7,1,164,Elizabeth Doe,Canada,4.9,98,17,12350,Delivered,########,348
+134,Beauty,Appliances,114,Barbie,Apple iPhone 11 64GB,19.99,1,10,1,157,Jane Doe,Spain,4.9,98,3,12352,Shipped,########,354
